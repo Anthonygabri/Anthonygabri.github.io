@@ -1,0 +1,61 @@
+/* #99712B, #49EB8D, #E6B258,#A240E6,#6F3299 */
+
+
+
+:root{
+--marronescuro: #99712B;
+--marronclaro: #E6B258;
+--marronmadeira: #6a541e;
+
+
+}
+
+header{
+width: 95%;
+margin: auto;
+border-style: solid;
+border-color: black;
+border-width: 1px;
+background-color: var(--marronescuro);
+}
+
+nav{
+width: 95%;
+margin: auto;
+
+}
+
+#central{
+width: 95%;
+margin: auto;
+border-style: solid;
+border-color: black;
+border-width: 1px;
+background-color: var(--marronclaro);
+}
+
+main>div{
+border-style: solid;
+border-color: black;
+border-width: 1px;
+width: 80%;
+max-width: 800px;
+margin-left: auto;
+margin-right: auto;
+
+}
+
+
+a{
+text-decoration: none;
+color: black;
+}
+
+#titulo{
+width: 100%;
+text-align: center;
+padding-top: 30px;
+padding-bottom: 30px;
+font-size: 2.5em;
+
+}
